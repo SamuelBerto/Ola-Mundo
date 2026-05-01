@@ -190,7 +190,7 @@ Exemplos:
 
 Olá, pequeno Gafanhoto 🖖
 
-## Menções
+## Citação
 
 o símbolo > Ele serve para criar uma citação (quote), tipo destacar um trecho de texto.
 
