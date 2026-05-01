@@ -138,7 +138,47 @@ Coloque seu Link dentro de [ ], e parenteses.
 
 Exemplo:
 
-[Acesse meu GitHub](https:
+[Acesse meu GitHub](https://github.com/SamuelBerto)
+
+[Acesse meu Instagram](https://www.instagram.com/samutzinn/)
+
+## Tabelas
+
+
+Utiliza-se | para separa a tabela e ---  para listas > ---|---|--- para criar a tabela.
+
+Exemplo:
+
+Num | nome | nota
+---|---|---
+1 | Samuel | 8,5
+2 | Diego | 5,5
+3 | Bruno | 3,0
+4 | Rafael | 4,5
+
+
+## Comandos
+Ao utilizar crase ` `, o formato muda, para você saber que é um comando.
+
+Exemplo:
+Os alunos não entenderam direito para que serve o comando `document.getElementByid()` da linguagem JavaScript
+
+Se quiser trechos de programa utilize  3 crases.
+
+Exempo:
+
+Olha meu programa em Python
+```
+num= int(input('Digite um valor: ')
+if num % 2 == 0:
+    print(f'O valor {num} é PAR')
+else:
+    print(f'O valor {num} é ÍMPAR')
+
+```
+também podemos adicionar imagens do seu projeto, ou copiar.
+
+<img width="270" height="146" alt="if2" src="https://github.com/user-attachments/assets/93d554b1-8895-433e-8d26-c67203d38f32" />
 
 
 
