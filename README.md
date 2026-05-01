@@ -184,7 +184,7 @@ também podemos adicionar imagens do seu projeto, ou copiar.
 
 ## Emojis
 
-Também podemos adcionar emojis, utilizando o : , é importante você saber um básico dos codigos dos emojis ou nome do emoji
+Também podemos adicionar emojis, utilizando o : , é importante você saber um básico dos codigos dos emojis ou nome do emoji
 
 Exemplos:
 
