@@ -98,7 +98,7 @@ Exemplos:
 
 ### Listas Demarcada:   
 
-Utiliza-se * no lugar da numeração, sem ponto, apenas o *, ao adcionar também se torna uma sub marcação.
+Utiliza-se * no lugar da numeração, sem ponto, apenas o *, ao adcionar também se torna uma sub marcação. Também pode-se utilizar o - no lugar de *.
 
 Exp:
 
@@ -108,7 +108,41 @@ Exp:
   * Teste
   * Teste
 * Teste
- 
+
+## Lista de Tarefas:
+
+Utiliza-se - [ ] ,
+
+- [ ] Criar página Principal.
+- [ ] Criar página da loja.
+- [ ] Finalizar a reunião com o cliente.
+- [ ] Receber pagamento.
+
+ Para marcar a atividade feita basta adcionar um X dentro do [ ]
+
+- [x] Criar página Principal.
+- [ ] Criar página da loja.
+- [x] Finalizar a reunião com o cliente.
+- [ ] Receber pagamento.
+
+## Imagens
+
+Para adicionar imagens basta arrastar a imagem para a área Dragging & Dropping, ou clicar em cima e selecionar a pasta da imagem desejada.
+
+<img width="1658" height="917" alt="dragging dropping" src="https://github.com/user-attachments/assets/5023d204-6fcd-48cd-9a69-dfccd84877d8" />
+
+
+## Links
+
+Coloque seu Link dentro de [ ], e parenteses.
+
+Exemplo:
+
+[Acesse meu GitHub](https:
+
+
+
+
 
    
 
