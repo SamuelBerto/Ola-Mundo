@@ -55,11 +55,66 @@ Para Criar Títulos, Utiliza-se o # antes do título, existem 3 níveis de títu
 
 Exemplos:
 
-# Titulo de nível 1, com 1 #.
+# Título de nível 1, com 1 #.
 
-## Titulo de nível 2, com 2 ##.
+## Título de nível 2, com 2 ##.
 
-### Titulo de nível 3, com 3###.
+### Título de nível 3, com 3###.
+
+
+## Linhas:
+
+Se desejar fazer linhas, basta utilizar  3 --- ou 3 ***.
+
+Exemplos:
+
+Linha 1, com 3 ---.
+---
+
+Linha 2, com  3 ***.
+***
+
+## Listas
+
+Utiliza-se um número e um ponto, o próprio sistema já vai configurar na ordem númerica, independente da ordem númerica em que você colocar. (ex: 1. 500. 999. 0...). O sistema irá colocar sempre em  ordem númerica.
+
+1. Teste 1
+00. Teste 2
+999. Teste 3
+5. Teste 4
+
+Para adcionar listas de sub itens, adicione (3) espaços  antes da númeração da lista.
+
+Exemplos:
+
+1. Teste sem espaço.
+1. Teste sem espaço.
+   1. Teste Com espaço (romano).
+   1. Teste Com espaço (romano).
+   1. Teste Com espaço (romano).
+1. Teste sem espaço.
+1. Teste sem espaço.
+
+
+### Listas Demarcada:   
+
+Utiliza-se * no lugar da numeração, sem ponto, apenas o *, ao adcionar também se torna uma sub marcação.
+
+Exp:
+
+* Teste
+* Teste
+* Teste
+  * Teste
+  * Teste
+* Teste
+ 
+
+   
+
+
+
+
 
 
 
