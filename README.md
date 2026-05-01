@@ -25,6 +25,7 @@ Utilize 2 ** Antes e depois da palavra desejada para deixar em Negrito.
 Exemplos:
 
 COM 1 * E 1 _.
+
 Sou aluno do _curso em video_.
 
 Sou aluno do *curso em video*.
@@ -179,6 +180,39 @@ else:
 também podemos adicionar imagens do seu projeto, ou copiar.
 
 <img width="270" height="146" alt="if2" src="https://github.com/user-attachments/assets/93d554b1-8895-433e-8d26-c67203d38f32" />
+
+
+## Emojis
+
+Também podemos adcionar emojis, utilizando o : , é importante você saber um básico dos codigos dos emojis ou nome do emoji
+
+Exemplos:
+
+Olá, pequeno Gafanhoto 🖖
+
+## Menções
+
+o símbolo > Ele serve para criar uma citação (quote), tipo destacar um trecho de texto.
+
+Exemplo:
+
+> Muito Legal para responder.
+
+Você pode usar vários > para criar níveis:
+
+Exemplo:
+
+> Nível 1, Utilizando apenas 1 >
+>> Nível 2, Utilizando apenas 2 >>
+>>> Nível 3, Utilizando apenas 3 >>>
+
+---
+
+
+
+
+
+
 
 
 
